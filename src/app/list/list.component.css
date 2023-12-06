@@ -1,0 +1,14 @@
+#frame {
+    border: 1px solid black;
+    padding: 15px;
+    margin: 15px;
+  }
+  
+  .even {
+    background-color: lightgray;
+  }
+
+  li{
+    padding: 1rem;
+    border: 2px dashed #deadbeef;
+  }

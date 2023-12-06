@@ -11,9 +11,9 @@ body {
   --shadow-color: #E8E8E8;
 }
 
-body {
+/* body {
   background: url("https://placehold.co/100x100/FFFFFF/EFEFEF/png?text=49362");
-}
+} */
 
 button.primary {
   padding: 10px;
